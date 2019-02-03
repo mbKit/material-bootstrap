@@ -8,8 +8,8 @@ Get Much More Benefits and start your development.
 Premium components, Starter templates, Premium sections examples, Premium Support, Source files...
 [UPDATE TO PRO](https://mbootstrap.com/mb-pro).
 
-- [Website](https://mbootstrap.com)
-- [Documentation](https://mbootstrap.com/docs/introduction)
-- [Pro version](https://mbootstrap.com/mb-pro)
-- [Examples](https://mbootstrap.com/examples-list)
-- [Templates](https://mbootstrap.com/templates-list)
+- [Website](http://mbootstrap.com)
+- [Documentation](http://mbootstrap.com/docs/introduction)
+- [Pro version](http://mbootstrap.com/mb-pro)
+- [Examples](http://mbootstrap.com/examples-list)
+- [Templates](http://mbootstrap.com/templates-list)
